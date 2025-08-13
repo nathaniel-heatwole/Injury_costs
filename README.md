@@ -1,19 +1,14 @@
+Python script
+- injury_costs.py
+
 Summary docs
 - injury_costs_primer.pdf
-- graphical-abstract.pptx
+- injury_costs_plots.pdf
 
-Paper (full text)
+Paper
 - injury_costs_paper.pdf
-
-Code
-- injury_costs.py
 
 Inputs
 - hospitalized_summary.csv
 - iss_summary.csv
 - mais_summary.csv
-
-Outputs
-- figure-1.png
-- figure-2.png
-- figure-3.png
