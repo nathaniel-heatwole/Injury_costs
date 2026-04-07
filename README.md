@@ -2,13 +2,15 @@ SUMMARY
 
 • Injury severity and economic cost modeling
 
-• Published: Journal of Safety Research (Feb. 2026) - Injury Severity: Scales, Incidence, Hospitalization Rate, Mortality Risk, Economic Costs, Modeling Considerations, and Best Practices (https://www.sciencedirect.com/science/article/pii/S0022437526000034)
+• Published: Journal of Safety Research (Feb. 2026) - Injury Severity: Scales, Incidence, Hospitalization Rate, Mortality Risk, Economic Costs, Modeling Considerations, and Best Practices
+
+• Available at: https://www.sciencedirect.com/science/article/pii/S0022437526000034
 
 • Developed costs for the Injury Severity Scale, which is ubiquitous in injury research (12,000+ citations on Google Scholar)
 
 MAJOR COMPONENTS
 
-• Bounds feasible region, creates probabilistic map, transfers existing cost data, and develops regression-based predictive and link models
+• Bounds feasible region, creates probabilistic map, transfers/maps/imputes existing cost data, and develops regression-based predictive and link models
 
 • Cost data include: cost of injury (medical treatment and work lost), quality-related costs (e.g., pain and suffering), and willingness-to-pay estimates (based on hedonic wage risk studies)
 
