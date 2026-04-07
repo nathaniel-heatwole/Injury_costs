@@ -2,9 +2,7 @@ SUMMARY
 
 • Injury severity and economic cost modeling
 
-• Published: Journal of Safety Research (Feb. 2026) - Injury Severity: Scales, Incidence, Hospitalization Rate, Mortality Risk, Economic Costs, Modeling Considerations, and Best Practices
-
-• Available at: https://www.sciencedirect.com/science/article/pii/S0022437526000034
+• Published: Journal of Safety Research (Feb. 2026) - Injury Severity: Scales, Incidence, Hospitalization Rate, Mortality Risk, Economic Costs, Modeling Considerations, and Best Practices (https://www.sciencedirect.com/science/article/pii/S0022437526000034)
 
 • Developed costs for the Injury Severity Scale, which is ubiquitous in injury research (12,000+ citations on Google Scholar)
 
@@ -22,9 +20,9 @@ IMPLICATIONS
 
 • Reduced-form cost functions and link models are reasonably linear
 
-Allows seemingly disparate injury severity scales to be better and more directly compared and facilitates the pooling of mixed data in meta-analyses
+• Allows seemingly disparate injury severity scales to be better and more directly compared and facilitates the pooling of mixed data in meta-analyses
 
-• Methodology can be applied to any injury quantity (not just costs), including: incidence, hospitalization rate, length of stay, ICU admission, mortality rate, work days lost, and disability/impairment
+• Methodology can be applied to any injury quantity (not just costs), including: incidence, ED admission, hospitalization rate, length of stay, ICU admission, mortality rate, work days lost, and disability/impairment
 
 TOOLS USED
 
