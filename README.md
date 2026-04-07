@@ -6,13 +6,13 @@ SUMMARY
 
 • Available at: https://www.sciencedirect.com/science/article/pii/S0022437526000034
 
-• Developed costs for the Injury Severity Scale, which is ubiquitous in injury research (12,000+ citations on Google Scholar)
+• Developed costs for the Injury Severity Scale, which is ubiquitous in injury research (12,000+ Google Scholar citations)
 
 MAJOR COMPONENTS
 
 • Bounded feasible region, created probabilistic map, transfered existing cost data, and fit regression-based predictive and link models
 
-• Costs include: cost of injury (medical treatment and work lost), quality-related costs (e.g., pain and suffering), and willingness-to-pay estimates (based on hedonic wage risk studies)
+• Costs include: cost of injury (medical treatment and work lost), quality-related costs (e.g., pain and suffering), and willingness-to-pay estimates (based on hedonic wage-risk studies)
 
 • Clustered ranges of injury severity values according to various data features, including the new mapped cost values
 
