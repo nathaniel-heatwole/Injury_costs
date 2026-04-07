@@ -10,17 +10,17 @@ SUMMARY
 
 MAJOR COMPONENTS
 
-• Bounds feasible region, creates probabilistic map, transfers/maps/imputes existing cost data, and fits regression-based predictive and link models
+• Bounded feasible region, created probabilistic map, transfered existing cost data, and fit regression-based predictive and link models
 
-• Cost data include: cost of injury (medical treatment and work lost), quality-related costs (e.g., pain and suffering), and willingness-to-pay estimates (based on hedonic wage risk studies)
+• Costs include: cost of injury (medical treatment and work lost), quality-related costs (e.g., pain and suffering), and willingness-to-pay estimates (based on hedonic wage risk studies)
 
-• Clusters ranges of injury severity values according to various data features, including the new mapped cost values
+• Clustered ranges of injury severity values according to various data features, including the new mapped cost values
 
-• Develops interesting insights regarding various injury severity scales, their relationship to one another, and how they should be applied
+• Developed interesting insights regarding the various injury severity scales, their relationship to one another, and how they should be applied
 
 IMPLICATIONS
 
-• Reduced-form cost functions and link models are reasonably linear
+• Reduced-form cost functions and link models are now available, and are reasonably linear
 
 • Allows seemingly disparate injury severity scales to be better and more directly compared and facilitates the pooling of mixed data in meta-analyses
 
