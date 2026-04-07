@@ -10,7 +10,7 @@ SUMMARY
 
 MAJOR COMPONENTS
 
-• Bounds feasible region, creates probabilistic map, transfers/maps/imputes existing cost data, and develops regression-based predictive and link models
+• Bounds feasible region, creates probabilistic map, transfers/maps/imputes existing cost data, and fits regression-based predictive and link models
 
 • Cost data include: cost of injury (medical treatment and work lost), quality-related costs (e.g., pain and suffering), and willingness-to-pay estimates (based on hedonic wage risk studies)
 
