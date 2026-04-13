@@ -14,7 +14,7 @@ MAJOR COMPONENTS
 
 • Collected empirical injury data (incidence/prevalence, hospitalization rate, mortality risk, and economic costs)
 
-• Critically assessed data quality across sources, considering abundancy (study size) and recency (years covered)
+• Critically assessed data quality across sources, considering both abundancy (study size) and recency (years covered)
 
 • Cost data encompass: cost-of-injury (medical treatment and work lost), quality-related costs (e.g., pain and suffering), and willingness-to-pay estimates (based on hedonic wage-risk studies)
 
@@ -30,4 +30,4 @@ IMPLICATIONS
 
 TOOLS USED
 
-• Python, econometrics, operations research, logistic regression, clustering (k-means), hypothesis testing (likelihood ratio test)
+• Python, econometrics, operations research, logistic regression (ordinal, multinomial), log-log models, clustering (k-means), hypothesis testing (likelihood ratio test)
