@@ -4,11 +4,13 @@ SUMMARY
 
 • Published: Journal of Safety Research (https://www.sciencedirect.com/science/article/pii/S0022437526000034)
 
-• Developed cost curves for the Injury Severity Scale, which is ubiquitous in injury and safety research (12,000+ Google Scholar citations)
+• Developed regression-based cost curves for the Injury Severity Scale, which is ubiquitous in injury and safety research (12,000+ Google Scholar citations)
 
-• Methodology can be applied to any injury quantity (not just costs), including: incidence, ED admission, hospitalization rate, length of stay, ICU admission, mortality rate, work days lost, and disability/impairment
+• Developed functions directly linking the Injury Severity Scale to the Abbreviated Injury Scale
 
 • Allows seemingly disparate injury severity scales to be better and more directly compared and facilitates the pooling of mixed injury data in meta-analyses
+
+• Methodology can be applied to any injury quantity (not just costs), including: incidence, ED admission, hospitalization rate, length of stay, ICU admission, mortality rate, work days lost, and disability/impairment
 
 MAJOR COMPONENTS
 
