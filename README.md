@@ -4,28 +4,18 @@ SUMMARY
 
 • Published: Journal of Safety Research (https://www.sciencedirect.com/science/article/pii/S0022437526000034)
 
-• Developed regression-based cost curves for the Injury Severity Score, which is ubiquitous in injury and safety research (12,000+ Google Scholar citations)
-
-• Developed functions directly linking the Injury Severity Score to the Abbreviated Injury Scale
-
-• Allows seemingly disparate injury severity scales to be better and more directly compared and facilitates the pooling of mixed injury data in meta-analyses
-
-• Methodology can be applied to any injury quantity (not just costs), including: incidence, ED admission, hospitalization rate, length of stay, ICU admission, mortality rate, work days lost, and disability/impairment
-
-MAJOR COMPONENTS
+• Quantified costs for the Injury Severity Score - ubiquitous in injury and safety research (12,000+ Google Scholar citations)
 
 • Bounded feasible region, created probabilistic map, transferred existing cost data, and fit regression-based predictive and link models
 
-• Collected empirical injury data (incidence/prevalence, hospitalization rate, mortality risk, and economic costs)
+• Developed models directly linking the Injury Severity Score to the Abbreviated Injury Scale (its parent scale)
 
-• Critically assessed data quality across sources, considering both abundancy (study size) and recency (years covered)
-
-• Cost data encompass: cost-of-injury (medical treatment and work lost), quality-related costs (e.g., pain and suffering), and willingness-to-pay estimates (based on hedonic wage-risk studies)
-
-• Developed and evaluated reduced-form cost functions and link models
+• Cost data encompass: cost-of-injury (medical treatment, work lost), quality-related costs (e.g., pain/suffering), and willingness-to-pay (based on hedonic wage studies)
 
 • Clustered ranges of injury severity values according to various data features, including the newly mapped cost values
 
-TOOLS USED
+• Methodology can be applied to any injury quantity (not just costs): incidence/prevalence, ED admission, hospitalization rate, length of stay (LOS), ICU admission, mortality rate, work days lost, and disability/impairment
 
-• Python, econometrics, operations research, logistic regression (ordinal, multinomial), log-log models, model development/evaluation, clustering (k-means), hypothesis testing (likelihood ratio test)
+• Allows seemingly disparate injury severity scales to be better and more directly compared and facilitates the pooling of mixed injury data in meta-analyses
+
+• Tools used: Python, econometrics, operations research, model development/evaluation, logistic regression (ordinal, multinomial), log-log models, clustering (k-means), hypothesis testing (likelihood ratio test)
