@@ -2,7 +2,9 @@ SUMMARY
 
 • Injury severity and economic cost modeling
 
-• Published: Journal of Safety Research (https://www.sciencedirect.com/science/article/pii/S0022437526000034)
+• Published: Journal of Safety Research (2026) (https://www.sciencedirect.com/science/article/pii/S0022437526000034)
+
+• Title: Injury Severity: Scales, Incidence, Hospitalization Rate, Mortality Risk, Economic Costs, Modeling Considerations, and Best Practices
 
 • Quantified costs for the Injury Severity Score - ubiquitous in injury and safety research (12,000+ Google Scholar citations)
 
